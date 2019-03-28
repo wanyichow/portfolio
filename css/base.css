@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	font-family: 'Barlow Semi Condensed',-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: 'Space Mono', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
 	min-height: 100vh;
 	color: #57585c;
 	color: var(--color-text);
@@ -115,12 +115,14 @@ a:hover {
 
 /* Icons */
 .icon {
-	display: block;
-	width: 1.5em;
-	height: 1.5em;
-	margin: 0 auto;
-	fill: currentColor;
+    display: block;
+    width: 4.5em;
+    height: 2.5em;
+    margin: -28px 130px -30px 129px;
+    fill: currentColor;
+    border: 4.5px solid currentColor;
 }
+
 
 .icon--keyboard {
 	display: none;
