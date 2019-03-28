@@ -334,7 +334,7 @@ a.demo--current {
 
 .grid__item-titlewrap {
 	bottom: 10%;
-	position: absolute;
+	position: inherit;
 }
 
 .grid__item-title {
@@ -353,7 +353,7 @@ a.demo--current {
 }
 
 .grid__item:nth-child(odd) .grid__item-titlewrap {
-	right: -99vw;
+	right: -1vw;
 	top: 0vw;
 	}
 
