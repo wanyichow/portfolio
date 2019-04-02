@@ -43,7 +43,8 @@ h5 {
 }
 .btn {
 	background-color: #333;
-margin: 20em 20em 20em 11em;
+	font-family: 'Space Mono', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
+margin: 2em 20em -3em -39em;
 color: #9E9E9E;
 font-size: 15px;
 font-weight: 600;
