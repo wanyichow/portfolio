@@ -65,7 +65,7 @@ position: inherit;
 
 .list {
 
-text-decoration: underline;
+
 padding: 4px 2px;
 color: black;
 	padding: 4px 2px;
@@ -143,10 +143,10 @@ body {
 ul, ol {
 	margin: 0;
 	padding: 0;
-	list-style: circle;
+	list-style: square;
 }
 ul li {
-	list-style: none;
+	list-style: square;
 }
 .section {
 	padding: 50px 0;
