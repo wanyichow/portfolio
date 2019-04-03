@@ -213,7 +213,8 @@ ul li {
 	font-size: 16px;
 	margin-left: 40px;
 	letter-spacing: 1px;
-    margin: 7em 10em 15em 15em;
+    margin: 2em 6em 0em 4em;
+		background-color: silver;
 
 }
 .navigation a:hover, .navigation a.active {
