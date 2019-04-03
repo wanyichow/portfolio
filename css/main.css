@@ -119,6 +119,7 @@ color: black;
 	align-self: start;
 	grid-area: header;
 	justify-self: start;
+	background-color: white;
 }
 
 .codrops-header__title {
@@ -214,7 +215,7 @@ ul li {
 	margin-left: 40px;
 	letter-spacing: 1px;
     margin: 2em 6em 0em 4em;
-		background-color: silver;
+
 
 }
 .navigation a:hover, .navigation a.active {
