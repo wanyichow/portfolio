@@ -143,6 +143,10 @@ margin-top:10%;
 .service {
     margin: 50px 0 50px 0;
 }
+
+.btn{
+	visibility: hidden;
+}
 }
 @media screen and (max-width: 320px) {
 #header .header-content {
