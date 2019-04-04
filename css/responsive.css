@@ -124,6 +124,10 @@ margin-top:10%;
 #header .header-content {
 	padding: 30px 0%;
 }
+.content--fixed {
+visibility: hidden;
+}
+
 .navigation, .navigation a {
 	margin-left: 0px;
 }
