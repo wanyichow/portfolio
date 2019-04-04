@@ -156,8 +156,25 @@ margin-top:10%;
 	margin-left: 0px;
 }
 
-.codrops-header{
+.codrops-header {
 	visibility: hidden;
+	z-index: 100;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	align-items: center;
+	align-self: start;
+	grid-area: header;
+	justify-self: start;
+	background-color: white;
+}
+
+.codrops-header__title {
+	visibility: hidden;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0;
+	padding: 0.75em 0;
 }
 
 .h5{
