@@ -90,6 +90,11 @@ margin-top:40%;
 }
 }
 @media screen and (max-width: 640px) {
+
+.content--fixed {
+visibility: hidden;
+}
+
 #header .header-content {
 	padding: 30px 0%;
 }
