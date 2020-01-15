@@ -65,7 +65,25 @@ position: inherit;
 .btn-large {
 	padding: 15px 40px;
 }
+.img-responsive1 {
+	display: block;
+    max-width: 25%;
+    height: auto;
+}
 
+.img-responsive2{
+
+    max-width: 25%;
+    height: auto;
+    display: inline-block;
+    padding: 26px;
+}
+
+.img-responsive3{
+	display: block;
+    max-width: 40%;
+    height: auto;
+}
 .list {
 
 
